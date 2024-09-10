@@ -9,4 +9,4 @@ The game rule is well-described on this webpage:https://bicyclecards.com/how-to-
 - To change the mode of game, let's say you want to play against the smart robot, simply copy the content from **'smart.properties'** to **'whist.properties'**
 - A screenshot of a typical game
 
-![image-20240802075354549](README.assets/image-20240802075354549-1725998604331.png)
+![image-20240802075354549](./README.assets/image-20240802075354549.png)
